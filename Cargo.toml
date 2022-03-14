@@ -1,0 +1,13 @@
+[package]
+name = "hosts-parser"
+version = "0.1.0"
+authors = ["ClawSeven <zehuan97@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+regex = "1.5.4"
+lazy_static = "1.4.0"
+# regex = {git = "https://github.com/mesalock-linux/regex-sgx"}
